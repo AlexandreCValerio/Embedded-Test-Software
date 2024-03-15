@@ -1,0 +1,4 @@
+/home/alexandre/Documents/EmbeddedTestSoftwareFramework/build/CMakeFiles/rebuild_cache.dir
+/home/alexandre/Documents/EmbeddedTestSoftwareFramework/build/CMakeFiles/edit_cache.dir
+/home/alexandre/Documents/EmbeddedTestSoftwareFramework/build/CMakeFiles/MyExample.dir
+/home/alexandre/Documents/EmbeddedTestSoftwareFramework/build/CMakeFiles/ets.dir
